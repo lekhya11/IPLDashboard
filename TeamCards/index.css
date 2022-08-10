@@ -1,0 +1,18 @@
+.teamCard-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+  background-color: whitesmoke;
+  border-radius: 5px;
+}
+.image {
+  height: 200px;
+  width: 200px;
+  margin-right: 6px;
+}
+.heading {
+  font-family: 'Bree Serif ';
+  color: white;
+}
